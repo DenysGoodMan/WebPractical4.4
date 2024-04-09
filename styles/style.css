@@ -1,6 +1,7 @@
 html {
   font-size: 10px;
   font-family: 'Open Sans', sans-serif;
+  height: 1080px;
 }
 
 
@@ -18,11 +19,11 @@ p, li {
 html {
   background-image: url(../images/mercedes_benz_bgi.jpg);
   background-repeat: no-repeat;
+  
 }
 
 body {
   width: 600px;
-  height: 1080px;
   margin: 0;
   background-color: #636363;
   padding: 0 20px 20px 20px;
